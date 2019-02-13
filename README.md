@@ -1,4 +1,4 @@
-# Hexfox Cinema Scraper
+# Movie Scraper
 
 Showcase for how to scrape your local cinema website and email yourself when
 it is showing movies that have an imdb rating above a certain score.
